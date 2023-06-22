@@ -1,4 +1,3 @@
-<head>
     <style>
       .resultRow {
         display: flex;
@@ -310,5 +309,5 @@
         return email.endsWith(domain);
       }
     </script>
-  </head>
+
   
